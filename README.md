@@ -3,11 +3,11 @@
 A simple and responsive landing page built as part of The Odin Project curriculum. 
 This project focusing on HTML and CSS, utilizing Flexbox for layout and responsiveness.
 
-Features
+Features:
 
--Clean and structured HTML & CSS
--Fully responsive design using Flexbox
--Modern and minimalistic UI
+* Clean and structured HTML & CSS
+* Fully responsive design using Flexbox
+* Modern and minimalistic UI
 
 
 Acknowledgments
